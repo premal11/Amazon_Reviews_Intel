@@ -76,6 +76,4 @@
 
 > By combining modern NLP with visual analytics, this solution promotes transparency, trust, and data-driven growth in e-commerce.
 
----
 
-## 📁 Repository Structure
